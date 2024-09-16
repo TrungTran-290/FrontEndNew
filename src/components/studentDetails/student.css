@@ -1,0 +1,9 @@
+.Buttons_Icon {
+  display: flex;
+  justify-content: space-between;
+}
+.center-image {display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
